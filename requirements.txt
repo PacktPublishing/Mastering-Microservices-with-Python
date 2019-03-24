@@ -1,0 +1,6 @@
+sqlalchemy
+flask
+pytest
+alembic
+sqlalchemy
+psycopg2
