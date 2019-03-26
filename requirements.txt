@@ -4,3 +4,4 @@ pytest
 alembic
 sqlalchemy
 psycopg2
+flask_sqlalchemy
